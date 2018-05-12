@@ -28,6 +28,8 @@ creator:
     - http://de.wikipedia.org/wiki/Jakob_Wassermann
     - http://en.wikipedia.org/wiki/Jakob_Wassermann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25345#The-Goose-Man
 gutenberg_issued: '2008-05-06'
 gutenberg_type: Text
 identifiers:
