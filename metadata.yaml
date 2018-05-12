@@ -1,0 +1,45 @@
+_repo: The-Goose-Man_25345
+_version: 0.1.0
+alternative_title: Gänsemännchen. English
+contributor:
+  translators:
+  - agent_name: Porterfield, Allen Wilson
+    birthdate: 1877
+    gutenberg_agent_id: '3818'
+    url: http://www.gutenberg.org/2009/agents/3818
+  - agent_name: Lewisohn, Ludwig
+    birthdate: 1882
+    deathdate: 1955
+    gutenberg_agent_id: '4904'
+    url: http://www.gutenberg.org/2009/agents/4904
+    wikipedia: http://en.wikipedia.org/wiki/Ludwig_Lewisohn
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wassermann, Jakob
+    alias: Wassermann, Jacob
+    birthdate: 1873
+    deathdate: 1934
+    gutenberg_agent_id: '6236'
+    url: http://www.gutenberg.org/2009/agents/6236
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Jakob_Wassermann
+    - http://en.wikipedia.org/wiki/Jakob_Wassermann
+description: ''
+gutenberg_issued: '2008-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25345'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into English'
+- !lcsh 'Composers -- Fiction'
+- !lcsh 'Germany -- Fiction'
+- !lcc 'PT'
+title: The Goose Man
+url: http://www.gutenberg.org/ebooks/25345
